@@ -1,0 +1,32 @@
+{
+  "name": "timeoutbot",
+  "version": "1.0.0",
+  "description": "discord bot to allocate roles for an allocated amount of time",
+  "main": "mybot.js",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouSpoonyBard/TimeOutBot.git"
+  },
+  "keywords": [
+    "timeout",
+    "bot",
+    "role",
+    "permission",
+    "user",
+    "discord"
+  ],
+  "author": "Spoonybard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouSpoonyBard/TimeOutBot/issues"
+  },
+  "homepage": "https://github.com/YouSpoonyBard/TimeOutBot#readme"
+}
